@@ -1,0 +1,20 @@
+1. Student Grades and Pass/Fail check 
+you are working in a school management system. You need to implement a program that :
+
+Takes the grades of students in an array.
+Checks if each student has passed or failed based on passing grade threshod(e.g., 50%).
+Prints out a message for each student indicatng whether they have passed or failed.
+
+2. Employee Salary Adjustment
+You are working for a company and you are tasked with implementing a salary adjustment system. The company has an array of employees salaries. You need to:
+
+Increase each employee's salary by a fixed percentage(e.g., 10%).
+Print our the updated salary of each employee.
+
+3. Inventory Management System.
+You are working for a small retail company and need to build an inventory management system. The compnay keeps track of the number of items in stock for different products. You are given an array that represents the current stock of each product.
+
+Your task is to:
+
+Update the stock after a scale by decreasing the stock for each sold item.
+Print out the updated stock for each product.

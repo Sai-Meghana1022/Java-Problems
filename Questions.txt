@@ -1,0 +1,13 @@
+1. You are tasked with implementing a Student Grades System for a school Each student has a different number of subjects, and their grades for each subject need to be stored in a jagged array. The program should allow the user to 
+
+- Input the number of students.
+- For each student input the number of subjects they are taking.
+- Enter the grades for each subject.
+- After all the data has be entered, the program should display the grades for each student in a readable format.
+
+2. You need to create a program to track the weekly working hours for each employee in a compnay. The number of working days(hours) for each employee can vary, so we will use a jagged array to store their hours for each day of the week.
+ 
+-The program should allow input for the number of employees.
+- For each employee, input the number of working days they worked.
+- Enter the number of hours worked for each of those days
+- Finally, display the total hours worked by each employee and thie hours for each day.

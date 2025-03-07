@@ -1,0 +1,10 @@
+Scenario:
+
+Akash is the founder of an educational trust by name "Shri Saraswathi vidya" trust. Under this trust wins 2 other sub trusts out of which one takes care of 2 colleges and the other takes care of 3 colleges. Each collage will have 2 classrooms provided for conduction the sessions where 5 students are permitted to sit. Akash wants to know the aggregate percentage of each student from the collages and also Akash wants to check which student has the highest percentage among all the students. Depict the above scenario in programming.
+
+2. Consider a school with 5 classes, and each class has 4 subjects. You want to store the grades of students in each subject. The grades are stored in a 3D array, where:
+
+The first dimension is for classes(5 classes).
+The second dimension is for subjects.(4 subjects).
+The third dimension is for students.(you can have 3 students per subject).
+Write a program to compute the average grade of each srudent for each subject.

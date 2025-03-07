@@ -1,0 +1,60 @@
+**1. Seating Arrangement in a theater(2D array)
+
+problem:
+
+you are designing a seating arrangement syste for a theate. The theater has n rows and m columns, and you need to create a 2D array to represent the seating arrangement. Each seat is represented as either:
+
+0(empty seat), or
+1(occupied seat).
+
+You need to implement the following operations:
+
+-Mark a seat as occupied when a person buys a ticket.
+-Find the toal number of seats available.
+-Display te seating arragement with occupied and empty seas.
+
+Seating arrangement(5X5 theater):
+[0,0,1,0,1]
+[1,1,0,0,0]
+[0,1,1,0,1]
+[1,0,0,1,0]
+[0,0,1,0,0]
+
+Operation 1:mark seat(2,2) as occupied.
+Operation 2: Count available seats.
+Operation 3: Display the seating arrangement.
+
+**2.Sales Data Analysis(3d Array)
+
+Problem:
+
+You are working with sales data for a retail store, and you need to store data for each product across different regions for multiple years. Use a 3D array to represent the folowing data:
+
+Dimension 1: The number of years.
+Dimension 2: The number of regions.
+Dimension 3: The number of products.
+You need to implement the following opetaions:
+
+Store the sales data for each product acros different regions for multiple years.
+Calculate the total sales for each product across all years and regions.
+Find the region with the highest sales for a specific product.
+
+Example:
+Consider the followin 3D array representing sales for 2 years, 3 regions, and 4 products:
+
+Year 1 Sales:
+[100,200,150,50] //Region 1 sales for products 1, 2, 3, 4
+[120,180,130,70]//Region 2 sales for products 1, 2, 3, 4
+[110,210,160,90] //Region 3 sales for products 1, 2, 3, 4
+
+Year 2 Sales:
+[150,250,200,90] //Region 1 sales for products 1, 2, 3, 4
+[130,220,170,80] //Region 2 sales for products 1, 2, 3, 4
+[120,230,190,100] //Region 3 sales for products 1, 2, 3, 4
+
+Calculate the total sales for Product 1 over all regions and years.
+Find the region with the highest sales for Product 2 in year 1.
+
+Solution Approach. 
+Define a 3D array where the first dimension represents the years, the second represents the regions, and the third repsents the products.
+Use loops to traverse trough the 3D array and perform oprations like claculating total and finding maximum sales.
